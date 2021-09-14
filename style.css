@@ -1,0 +1,62 @@
+body {
+  margin: 10px;
+}
+nav {
+  border-radius: 5px;
+}
+/* .comtainer-fluid {
+  margin-left: 100px !important;
+} */
+.brand {
+  background-color: rgb(250, 74, 147);
+  border-radius: 8px;
+  padding: 5px;
+  color: white !important;
+  font-weight: 600;
+  width: auto !important;
+}
+.jumbotron {
+  margin-top: 70px !important;
+  height: 400px;
+  background-image: url(./images/dan-gold-4_jhDO54BYg-unsplash.jpg);
+  color: white;
+  text-align: center;
+  align-items: center;
+  margin-top: 5px;
+  font-size: medium;
+  padding: 5px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.lead {
+  font-size: medium;
+  font-weight: 600;
+}
+
+.middle {
+  margin-top: 100px;
+  /* vertical-align: mid dle; */
+}
+.card {
+  margin-bottom: 10px !important;
+  border-radius: 5px !important ;
+  margin-left: 70px !important;
+}
+h1,
+h2,
+h4,
+p {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footer {
+  height: 300px;
+  background-image: linear-gradient(rgb(189, 152, 236), rgb(118, 75, 175));
+  border-radius: 5px;
+}
+.content-foot {
+  position: relative;
+  top: 60px;
+  text-align: center;
+}
