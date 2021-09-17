@@ -18,7 +18,7 @@ nav {
 .jumbotron {
   margin-top: 70px !important;
   height: 550px !important;
-  background-image: url(./images/dan-gold-4_jhDO54BYg-unsplash.jpg);
+  background-image: url(./images/dan-gold-4_jhDO54BYg-unsplash.jpg);background-attachment:fixed;
   color: white;
   text-align: center;
   align-items: center;
